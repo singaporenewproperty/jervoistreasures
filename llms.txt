@@ -1,0 +1,9 @@
+# Jervoir Treasures
+
+> Jervoir Treasures — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/jervoistreasures/
+
+## Pages
+
+- [Jervoir Treasures](https://singaporenewproperty.github.io/jervoistreasures/): Jervoir Treasures property information.
